@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/documents/UTBM/Cours/IFB/Projet_IFB/affichage.c
+affichage.h
+C:/documents/UTBM/Cours/IFB/Projet_IFB/affichage.h
+traitement.h
+C:/documents/UTBM/Cours/IFB/Projet_IFB/traitement.h
+
+C:/documents/UTBM/Cours/IFB/Projet_IFB/affichage.h
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+traitement.h
+C:/documents/UTBM/Cours/IFB/Projet_IFB/traitement.h
+
+C:/documents/UTBM/Cours/IFB/Projet_IFB/main.c
+traitement.h
+C:/documents/UTBM/Cours/IFB/Projet_IFB/traitement.h
+affichage.h
+C:/documents/UTBM/Cours/IFB/Projet_IFB/affichage.h
+
+C:/documents/UTBM/Cours/IFB/Projet_IFB/traitement.h
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+
