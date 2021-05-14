@@ -32,6 +32,7 @@ void affichage_grille (grille Grille){
         printf("\n");
     }
 }
+
 int move_choice(int round){
     int choice;
     if(round==0){

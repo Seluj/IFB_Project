@@ -2,6 +2,7 @@
 // Created by jules on 10/05/21.
 //
 #include "traitement.h"
+
 int acquisition_taille_grille(){
     int size;
     printf("Entrez la taille de la grille :");
