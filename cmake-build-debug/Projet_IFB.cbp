@@ -80,6 +80,12 @@
 		<Unit filename="D:/Document/UTBM/Cours/IFB/Projet_IFB/affichage.h">
 			<Option target="Projet_IFB"/>
 		</Unit>
+		<Unit filename="D:/Document/UTBM/Cours/IFB/Projet_IFB/check_winer.c">
+			<Option target="Projet_IFB"/>
+		</Unit>
+		<Unit filename="D:/Document/UTBM/Cours/IFB/Projet_IFB/check_winer.h">
+			<Option target="Projet_IFB"/>
+		</Unit>
 		<Unit filename="D:/Document/UTBM/Cours/IFB/Projet_IFB/main.c">
 			<Option target="Projet_IFB"/>
 		</Unit>

@@ -168,6 +168,33 @@ affichage.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Projet_IFB.dir\build.make CMakeFiles/Projet_IFB.dir/affichage.c.s
 .PHONY : affichage.c.s
 
+check_winer.obj: check_winer.c.obj
+
+.PHONY : check_winer.obj
+
+# target to build an object file
+check_winer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Projet_IFB.dir\build.make CMakeFiles/Projet_IFB.dir/check_winer.c.obj
+.PHONY : check_winer.c.obj
+
+check_winer.i: check_winer.c.i
+
+.PHONY : check_winer.i
+
+# target to preprocess a source file
+check_winer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Projet_IFB.dir\build.make CMakeFiles/Projet_IFB.dir/check_winer.c.i
+.PHONY : check_winer.c.i
+
+check_winer.s: check_winer.c.s
+
+.PHONY : check_winer.s
+
+# target to generate assembly for a file
+check_winer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Projet_IFB.dir\build.make CMakeFiles/Projet_IFB.dir/check_winer.c.s
+.PHONY : check_winer.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -234,6 +261,9 @@ help:
 	@echo ... affichage.obj
 	@echo ... affichage.i
 	@echo ... affichage.s
+	@echo ... check_winer.obj
+	@echo ... check_winer.i
+	@echo ... check_winer.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

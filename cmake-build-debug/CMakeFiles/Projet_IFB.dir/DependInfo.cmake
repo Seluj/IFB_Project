@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "D:/Document/UTBM/Cours/IFB/Projet_IFB/affichage.c" "D:/Document/UTBM/Cours/IFB/Projet_IFB/cmake-build-debug/CMakeFiles/Projet_IFB.dir/affichage.c.obj"
+  "D:/Document/UTBM/Cours/IFB/Projet_IFB/check_winer.c" "D:/Document/UTBM/Cours/IFB/Projet_IFB/cmake-build-debug/CMakeFiles/Projet_IFB.dir/check_winer.c.obj"
   "D:/Document/UTBM/Cours/IFB/Projet_IFB/main.c" "D:/Document/UTBM/Cours/IFB/Projet_IFB/cmake-build-debug/CMakeFiles/Projet_IFB.dir/main.c.obj"
   "D:/Document/UTBM/Cours/IFB/Projet_IFB/traitement.c" "D:/Document/UTBM/Cours/IFB/Projet_IFB/cmake-build-debug/CMakeFiles/Projet_IFB.dir/traitement.c.obj"
   )

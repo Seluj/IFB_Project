@@ -5,7 +5,12 @@ CMakeFiles/Projet_IFB.dir/affichage.c.obj: ../affichage.c
 CMakeFiles/Projet_IFB.dir/affichage.c.obj: ../affichage.h
 CMakeFiles/Projet_IFB.dir/affichage.c.obj: ../traitement.h
 
+CMakeFiles/Projet_IFB.dir/check_winer.c.obj: ../check_winer.c
+CMakeFiles/Projet_IFB.dir/check_winer.c.obj: ../check_winer.h
+CMakeFiles/Projet_IFB.dir/check_winer.c.obj: ../traitement.h
+
 CMakeFiles/Projet_IFB.dir/main.c.obj: ../affichage.h
+CMakeFiles/Projet_IFB.dir/main.c.obj: ../check_winer.h
 CMakeFiles/Projet_IFB.dir/main.c.obj: ../main.c
 CMakeFiles/Projet_IFB.dir/main.c.obj: ../traitement.h
 
